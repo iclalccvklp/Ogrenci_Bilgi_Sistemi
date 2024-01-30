@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="mtu">
+    <file>mtu.gif</file>
+  </qresource>
+</RCC>

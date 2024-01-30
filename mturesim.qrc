@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="mtu">
+    <file>mtu (2).png</file>
+    <file>mtu.png</file>
+  </qresource>
+</RCC>
